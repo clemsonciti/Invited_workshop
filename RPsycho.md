@@ -70,7 +70,6 @@ ic <- iclust(bfi[1:25])
 pairs.panels(bfi[,1:5],pch='.',gap=0)
 ```
 
-
 ## Package predpsych
 ```{r, eval=FALSE}
 install.packages("PredPsych")
@@ -91,7 +90,10 @@ centered on the hand
 - Grip Aperture, defined as the distance between the marker placed on thumb tip and that placed on the tip of the index finger (mm);
 - x-, y-, and z-thumb, defined as x-, y-, and z-coordinates for the thumb with respect to F-local (mm);
 - x-, y-, and z-index, defined as x-, y-, and z-coordinates for the index finger with respect to F-local (mm);
-- x-, y-, and z-finger plane, defined as x-, y-, and zcomponents of the thumb-index plane, i.e., the three dimensional components of the vector that is orthogonal to the plane. This plane is defined as passing through thu0, ind3, and thu4,with components varying between +1 and 1.
+- x-, y-, and z-finger plane, defined as x-, y-, and zcomponents of the thumb-index plane, i.e., the three dimensional components of the vector that is orthogonal to the plane. This plane is defined as passing through thu0, ind3, and thu4,with components varying between +1 and -1.
+- All kinematic variables were expressed with respect to normalized movement duration (from 10%to 100 %, at increments of 10 %; for detailed methods, please refer to (Ansuini et al.,2015).
+- The dataset in the toolbox consists of a 848 × 121 matrix, where variables are arranged in columns (the first column represents
+the size of the grasped object, 1 = "small object"; 2 = "large object"; the other columns represent the kinematic variables) and observations (n = 848) are present in rows.
 
 **Research questions**
 
