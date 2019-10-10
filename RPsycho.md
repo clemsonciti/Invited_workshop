@@ -45,6 +45,10 @@ boxplot(person.data)
 
 
 #### Factor analysis
+Factor analysis is a statistical method used to describe variability among observed, correlated variables in terms of a potentially lower number of unobserved variables called factors
+
+It is a theory used in machine learning and related to data mining. The theory behind factor analytic methods is that the information gained about the interdependencies between observed variables can be used later to reduce the set of variables in a dataset.
+
 Factor Analysis using Weighted Least Square (wls)
 
 ```{r, eval=FALSE}
