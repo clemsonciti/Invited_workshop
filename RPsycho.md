@@ -86,14 +86,12 @@ sized objects: a small object (i.e., hazelnut) and a large object (i.e., grapefr
 centered on the hand
 
 #### Data description
-– Wrist Velocity, defined as the module of the velocity of the wrist marker (mm/sec);
-– Wrist Height, defined as the z-component of the wrist marker (mm);
-– Grip Aperture, defined as the distance between the marker placed on thumb tip and that placed on the tip of the
-index finger (mm);
-– x-, y-, and z-thumb, defined as x-, y-, and z-coordinates for the thumb with respect to F-local (mm);
-– x-, y-, and z-index, defined as x-, y-, and z-coordinates for the index finger with respect to F-local (mm);
-– x-, y-, and z-finger plane, defined as x-, y-, and zcomponents of the thumb-index plane, i.e., the three dimensional
-components of the vector that is orthogonal to the plane. This plane is defined as passing through thu0, ind3, and thu4,with components varying between +1 and 1.
+- Wrist Velocity, defined as the module of the velocity of the wrist marker (mm/sec);
+- Wrist Height, defined as the z-component of the wrist marker (mm);
+- Grip Aperture, defined as the distance between the marker placed on thumb tip and that placed on the tip of the index finger (mm);
+- x-, y-, and z-thumb, defined as x-, y-, and z-coordinates for the thumb with respect to F-local (mm);
+- x-, y-, and z-index, defined as x-, y-, and z-coordinates for the index finger with respect to F-local (mm);
+- x-, y-, and z-finger plane, defined as x-, y-, and zcomponents of the thumb-index plane, i.e., the three dimensional components of the vector that is orthogonal to the plane. This plane is defined as passing through thu0, ind3, and thu4,with components varying between +1 and 1.
 
 **Research questions**
 
