@@ -33,10 +33,9 @@ corr.test(person.data)
 cor.plot(person.data)
 ```
 
-#### Plot
+### Plot
 
 You can also embed plots, for example:
-I will be using ggplot2 for better plot
 
 #### Boxplot
 ```{r, eval=FALSE}
