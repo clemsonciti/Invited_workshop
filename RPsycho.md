@@ -22,7 +22,7 @@ subset(person.data,epilie>6)
 
 ```
 
-### Descriptive analysis
+#### Descriptive analysis
 
 You can also embed analyses, for example:
 
@@ -33,18 +33,18 @@ corr.test(person.data)
 cor.plot(person.data)
 ```
 
-### Plot
+#### Plot
 
 You can also embed plots, for example:
 I will be using ggplot2 for better plot
 
-### Boxplot
+#### Boxplot
 ```{r, eval=FALSE}
 boxplot(person.data)
 ```
 
 
-### Factor analysis
+#### Factor analysis
 Factor Analysis using Weighted Least Square (wls)
 
 ```{r, eval=FALSE}
@@ -54,7 +54,7 @@ f3w
 fa.diagram(f3w)
 ```
 
-### Cluster analysis
+#### Cluster analysis
 
 ```{r, eval=FALSE}
 data(bfi)
