@@ -97,11 +97,11 @@ the size of the grasped object, 1 = "small object"; 2 = "large object"; the othe
 
 **Research questions**
 
-Q1. Do my experimental conditions have discriminatory information?
-Q2. Is my discrimination significant?
-Q3. Which features/variables can best discriminate between my conditions?
-Q4. Do my experimental conditions contain variability?
-Q5. Can I represent my data in lower dimensions?
+- Q1. Do my experimental conditions have discriminatory information?
+- Q2. Is my discrimination significant?
+- Q3. Which features/variables can best discriminate between my conditions?
+- Q4. Do my experimental conditions contain variability?
+- Q5. Can I represent my data in lower dimensions?
 
 
 ### Q1. Do my experimental variables have discriminatory information?
