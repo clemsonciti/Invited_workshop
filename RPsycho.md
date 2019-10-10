@@ -22,7 +22,7 @@ subset(person.data,epilie>6)
 
 ```
 
-## Descriptive analysis
+### Descriptive analysis
 
 You can also embed analyses, for example:
 
@@ -33,7 +33,7 @@ corr.test(person.data)
 cor.plot(person.data)
 ```
 
-## Plot
+### Plot
 
 You can also embed plots, for example:
 I will be using ggplot2 for better plot
@@ -63,7 +63,7 @@ pairs.panels(bfi[,1:5],pch='.',gap=0)
 ```
 
 
-### Package predpsych
+## Package predpsych
 ```{r, eval=FALSE}
 install.packages("PredPsych")
 library(PredPsych)
