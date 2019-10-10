@@ -74,11 +74,11 @@ library(PredPsych)
 ```
 
 #### Input data: Kinematic data
-The data employ part of the motion capture dataset.
-This dataset was obtained by recording 15 naïve participants performing reach-to-grasp movements towards two differently
+- The data employ part of the motion capture dataset.
+- This dataset was obtained by recording 15 naïve participants performing reach-to-grasp movements towards two differently
 sized objects: a small object (i.e., hazelnut) and a large object (i.e., grapefruit).
-Movements were recorded using a nearinfrared camera motion capture system
-kinematic features of interest were estimated based on global frame of reference of motion capture system and a local frame
+- Movements were recorded using a nearinfrared camera motion capture system 
+- Kinematic features of interest were estimated based on global frame of reference of motion capture system and a local frame
 centered on the hand
 
 ### Q1. Do my experimental variables have discriminatory information?
